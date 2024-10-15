@@ -1,0 +1,9 @@
+To effectively visualize the distribution of categorical data and quantity values, you can use a variety of plots from the seaborn library in Python. Here’s how you can use displot, pairplot, heatmap, and jointplot to gain insights from your data:
+
+Displot: This plot is great for visualizing the distribution of a single variable. It combines the functionality of histplot, kdeplot, ecdfplot.
+
+Pairplot: This plot is useful for visualizing pairwise relationships in a dataset. It creates a matrix of scatter plots and histograms to show the distribution of data across different pairs of variables.
+
+Heatmap: A heatmap is excellent for visualizing the relationship between two categorical variables or a categorical variable and a quantity. It shows values as color gradients, making it easy to see patterns.
+
+Jointplot: This plot combines scatter plots and histograms (or KDE plots) to show the relationship between two variables along with their marginal distributions.
